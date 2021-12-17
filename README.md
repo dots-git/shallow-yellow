@@ -1,2 +1,3 @@
-# chess
-A Chess program that will include and interface and an engine, possibly additional analysis tools
+README
+
+In terms of code, we have no code
