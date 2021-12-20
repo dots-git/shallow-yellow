@@ -1,1 +1,1 @@
-In terms of code, we have no code
+it ain't much, but it's a main function
