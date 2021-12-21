@@ -3,9 +3,9 @@
 #[macro_use]
 extern  crate conrod;
 
-mod Interface;
+mod interface;
 
 fn main()
 {
-    
+    interface::open_window();
 }
