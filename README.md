@@ -1,1 +1,1 @@
-it ain't much, but it's a main function
+the literal opposite of deep blue
